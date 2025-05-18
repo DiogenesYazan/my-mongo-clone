@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "1747603962140",
+      "email": "user@m.co",
+      "password": "$2b$10$c0SyeGzB5r6mMdb7oKDFSuo.e4NeUpLOwXQtU3jVF6N3TZ/APvhpy",
+      "apiKey": "da8cf8de6a5b0b340d31ea53c4d6896415f3c10d9eed74b131d20f9654f6aa0f"
+    },
+    {
+      "id": "1747604157840",
+      "email": "user1@m.co",
+      "password": "$2b$10$VI02UqpjqgzEEyHROBfDCeNXCEh9hHtLm8KBL5Vhvz864yb/2sgIm"
+    }
+  ],
+  "docs": [
+    {
+      "id": "1747607882485",
+      "userId": "1747603962140",
+      "data": {
+        "foo": "bar"
+      }
+    },
+    {
+      "id": "1747607908571",
+      "userId": "1747603962140",
+      "data": {}
+    },
+    {
+      "id": "1747607964149",
+      "userId": "1747603962140",
+      "data": {
+        "local": "juazeiro do norte"
+      }
+    },
+    {
+      "id": "1747608058403",
+      "userId": "1747604157840",
+      "data": {
+        "teste": "testado"
+      }
+    }
+  ]
+}
