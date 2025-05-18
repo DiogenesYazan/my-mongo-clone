@@ -4,6 +4,8 @@
 
 ## 🚀 Visão Geral
 
+![Test Preview](https://imgur.com/uyVF6Z1.png)
+
 Este projeto nasceu para consolidar meus conhecimentos em desenvolvimento **Frontend** e **Backend**, criando um serviço que permite:
 
 * ✅ **Cadastro** e **Login** de usuários (JWT + Cookies).
@@ -64,6 +66,9 @@ PS C:\Users\SeuUsuario> Invoke-RestMethod -Uri http://localhost:3030/api/docs `
    -Headers @{ "x-api-key" = "Sua_API_KEY"; "Content-Type" = "application/json" } `
    -Body '{ "foo": "bar" }'
 ```
+E você terá um retorno assim:
+
+![Test Preview](https://i.imgur.com/poZs7L6.png)
 
 
    
