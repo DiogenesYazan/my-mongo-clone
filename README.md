@@ -57,11 +57,13 @@ Além disso, utilizei o **ChatGPT o4‑mini‑high** como um verdadeiro professo
 ## 🧪Testes da API
 
 Faça os testes da API no Insomnia, Postman ou até mesmo no PowerShell.
-PS C:\Users\SeuUsuario> Invoke-RestMethod -Uri http://localhost:3030/api/docs `
->>   -Method POST `
->>   -Headers @{ "x-api-key" = "Sua_API_KEY"; "Content-Type" = "application/json" } `
->>   -Body '{ "foo": "bar" }'
 
+```BASH
+PS C:\Users\SeuUsuario> Invoke-RestMethod -Uri http://localhost:3030/api/docs `
+   -Method POST `
+   -Headers @{ "x-api-key" = "Sua_API_KEY"; "Content-Type" = "application/json" } `
+   -Body '{ "foo": "bar" }'
+```
 
 
    
